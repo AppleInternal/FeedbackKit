@@ -9,7 +9,7 @@ Library for interacting with Haptic Engine on iPhone.
 ## Features
 
 - Supports feedback types: `.light`, `.medium`, `.hard` and `.custom`.
-- insensity can be customized from 0 to 9999999999999999999999999 until swift integer overflow
+- insensity can be customized from 0 to 9223372036854775807
 
 ## Installation
 
